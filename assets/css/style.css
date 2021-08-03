@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("https://thumbs.dreamstime.com/b/grass-13850007.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -662,7 +662,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeartbackgrounds.com%2F%3F435%2Cgreen-grass-texture&psig=AOvVaw1Oz7NbvL7F_2yFqNwCUmKD&ust=1628120891675000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDH_Y2FlvICFQAAAAAdAAAAABAD") center center;
   background-size: cover;
   padding: 60px 0;
 }
